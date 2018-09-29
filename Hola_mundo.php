@@ -1,3 +1,3 @@
     <?PHP
-         echo "Hoy es sabado";
+         echo "Hoy es viernes";
     ?>
